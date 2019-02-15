@@ -18,3 +18,8 @@ https://developer.okta.com/authentication-guide/auth-overview/#implicit-flow
 
 https://github.com/okta/okta.github.io
 
+<h1>Azure</h1>
+
+Learn
+https://docs.microsoft.com/en-us/learn/browse/?products=azure
+
