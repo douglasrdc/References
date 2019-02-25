@@ -28,3 +28,6 @@ https://github.com/douglasrdc/References/blob/master/angular.md
 
 <h1>React</h1>
 https://github.com/douglasrdc/References/blob/master/react.md
+
+<h1>Xamarin</h1>
+https://github.com/douglasrdc/References/blob/master/xamarin.md
