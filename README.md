@@ -23,3 +23,6 @@ https://github.com/okta/okta.github.io
 Learn
 https://docs.microsoft.com/en-us/learn/browse/?products=azure
 
+<h1>Angular</h1>
+https://github.com/douglasrdc/References/blob/master/angular.md
+
