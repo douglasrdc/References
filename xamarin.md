@@ -121,6 +121,8 @@ https://github.com/Microsoft/SmartHotel360-mobile-desktop-apps
 
 https://github.com/xamarin/Sport/blob/master/ 
 
+https://github.com/xamarin/mobile-samples
+
 SQL Lite: 
 
 https://www.nuget.org/packages/sqlite-net-pcl 
