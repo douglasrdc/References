@@ -16,6 +16,10 @@ https://react.semantic-ui.com/
 
 https://www.taniarascia.com/content-editable-elements-in-javascript-react/
 
+https://www.taniarascia.com/crud-app-in-react-with-hooks
+
+https://www.valentinog.com/blog/hooks/
+
 <h4>UI</h4>
 
 https://material-ui.com
