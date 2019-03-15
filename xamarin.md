@@ -123,6 +123,16 @@ https://github.com/xamarin/Sport/blob/master/
 
 https://github.com/xamarin/mobile-samples
 
+https://github.com/jsuarezruiz/xamarin-forms-netflix-sample/tree/master/src/Xamarin.Netflix/Xamarin.Netflix
+
+https://github.com/wcoder/open-source-xamarin-apps
+
+https://github.com/XamSome/awesome-xamarin
+
+https://github.com/jsuarezruiz/awesome-xamarin-forms
+
+https://github.com/Microsoft/SmartHotel360-Mobile
+
 SQL Lite: 
 
 https://www.nuget.org/packages/sqlite-net-pcl 
