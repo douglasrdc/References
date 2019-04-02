@@ -77,6 +77,10 @@ https://github.com/jsuarezruiz/xamarin-forms-goodlooking-UI
 
 https://github.com/Microsoft/BikeSharing360_MobileApps 
 
+
+https://github.com/reactiveui/Akavache
+
+
  ICONS: 
 
 https://github.com/jsmarcus/Xamarin.Plugins/tree/master/Iconize 
