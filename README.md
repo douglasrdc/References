@@ -31,3 +31,7 @@ https://github.com/douglasrdc/References/blob/master/react.md
 
 <h1>Xamarin</h1>
 https://github.com/douglasrdc/References/blob/master/xamarin.md
+
+
+<h1>Javascript</h1>
+https://twitter.github.io/typeahead.js
