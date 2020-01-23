@@ -18,6 +18,8 @@ https://developer.okta.com/authentication-guide/auth-overview/#implicit-flow
 
 https://github.com/okta/okta.github.io
 
+https://stackoverflow.com/questions/35153541/add-claims-on-successful-login-and-retrieve-it-elsewhere-in-the-application
+
 <h1>Azure</h1>
 
 Learn
